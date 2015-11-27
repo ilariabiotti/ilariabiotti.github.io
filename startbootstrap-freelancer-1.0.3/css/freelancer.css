@@ -13,7 +13,7 @@ p {
 }
 
 p.small {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 a,
@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #F8F8F8;
+    color: #E8E8E8;
 }
 
 h1,
@@ -33,7 +33,7 @@ h5,
 h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 hr.star-light,
@@ -63,7 +63,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #F8F8F8;
+    background-color: #E8E8E8;
 }
 
 hr.star-primary {
@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #F8F8F8;
+    background: #E8E8E8;
 }
 
 header .container {
@@ -181,7 +181,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #F8F8F8;
+    background: #E8E8E8;
 }
 
 section.success a,
@@ -274,7 +274,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #F8F8F8;
+    color: #E8E8E8;
     background: #fff;
 }
 
