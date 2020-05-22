@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+
+        <title>Serenata</title>
+        
+	<link href="css/video.css" rel="stylesheet">
+
+</head>
+
+<body class="serenata">
+
+  <div id="vidcenter">
+    <div class="pad">
+      <audio controls="controls" src="audio/IB_NSK_Serenata.mp3"></audio>
+    </div>
+
+    <h3>Serenata</h3>
+
+    <p>Audio File. Sound on Ipad. 6’54”. 2017 
+    <br>A suitcase sings a Serenata to its owner. The song adresses the following questions, posed by the artist group IRWIN:
+What do you want to take with you from European heritage (as you understand it) to help build a new and better world?
+What do you want to forget or delete from European heritage (as you understand it) to avoid repeating mistakes of the past?
+What do you want to take with you from the heritage of your own country (as you understand it) to help build a new and better world?
+What do you want to forget or delete from the heritage of your own country (as you understand it) to avoid repeating mistakes of the past?<br>Commissioned by NSK Pavilion, 57th Venice Biennale</p>
+
+  </div>
+
+</body>
+
+</html>       
+
+
+        
+
+            
+
