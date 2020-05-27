@@ -87,14 +87,14 @@ body.reliquia {
  background-image: url("../img/reliquia_tile.png");
  background-color: #dfb99d;
  color: #ffffff;
- background-size: 185%;
+ background-size: 200%;
 }
 
 body.fuga{
- background-image: url("../img/fuga_01.png");
+ background-image: url("../img/fuga_tile.png");
  background-color: #dfb99d;
  color: #ffffff;
- background-size: 10%;
+ background-size: 140%;
 }
 
 body.ricordi {
